@@ -1,9 +1,7 @@
 # getir götür kargo takip uygulaması
 # C# Cargo Tracking
 ```diff
-
 - Youtube videosu: https://www.youtube.com/watch?v=qXhVvWY3raI
-
 ```
 Küresel çapta gelişen e-ticaret sektörünün büyük katkıları sayesinde kargo sektörü ve önemli
 ölçüde gelişiyor. Bu büyüme beraberinde kargo takip otomasyonlarının kullanıcı dostu
