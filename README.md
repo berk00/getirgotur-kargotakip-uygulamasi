@@ -51,7 +51,7 @@ artımız olacağını düşünüyoruz.
 
   <img src="https://user-images.githubusercontent.com/60429097/178789199-c11d914e-6728-4ed3-a526-3a8f50e5d981.png" />
   <br/> <br/> <br/>
-<img align="center" width="130" src="https://user-images.githubusercontent.com/60429097/178789781-585d97e1-fed2-43ff-bc88-715edd342bf9.png" />
+  <div align="center"><img align="center" width="130" src="https://user-images.githubusercontent.com/60429097/178789781-585d97e1-fed2-43ff-bc88-715edd342bf9.png" /></div>
 
 
 
