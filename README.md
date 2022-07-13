@@ -45,7 +45,10 @@ artımız olacağını düşünüyoruz.
 <br>
 <br>
 
-<img width="100" src="https://user-images.githubusercontent.com/60429097/178787170-eefff0fa-56b4-43f8-87a5-989c0a57c89e.png" />
+  <img src="https://user-images.githubusercontent.com/60429097/178789199-c11d914e-6728-4ed3-a526-3a8f50e5d981.png" />
+  <br> <br> <br>
+<img width="130" src="https://user-images.githubusercontent.com/60429097/178789781-585d97e1-fed2-43ff-bc88-715edd342bf9.png" />
+
 
 
 
