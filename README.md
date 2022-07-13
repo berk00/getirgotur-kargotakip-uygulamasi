@@ -38,7 +38,9 @@ konularını ön plana alan proje bulamadık. Bu sayede iki adet eksiklik üzeri
 verdik. Modern arayüze sahip bir masaüstü program ve modern arayüze sahip, kapsamlı ve
 uyarlanabilir kargo takip sistemi.
 
-<div align="center"><img  src="https://user-images.githubusercontent.com/60429097/178782937-b474ac71-b6d7-4d5f-90ac-b172c5521e74.png" />
+
+![adadsadas](https://user-images.githubusercontent.com/60429097/178853613-461e06f5-5d9c-4908-bd38-18e6d98e986e.png)
+
 
 <br><br>
 Araştırmalarımız sonucu Türkçe kaynak eksikliğini düşünerek projemizi açık kaynak olarak
@@ -49,7 +51,7 @@ artımız olacağını düşünüyoruz.
 
   <img src="https://user-images.githubusercontent.com/60429097/178789199-c11d914e-6728-4ed3-a526-3a8f50e5d981.png" />
   <br> <br> <br>
-<img width="130" src="https://user-images.githubusercontent.com/60429097/178789781-585d97e1-fed2-43ff-bc88-715edd342bf9.png" />
+<img lign="center" width="130" src="https://user-images.githubusercontent.com/60429097/178789781-585d97e1-fed2-43ff-bc88-715edd342bf9.png" />
 
 
 
