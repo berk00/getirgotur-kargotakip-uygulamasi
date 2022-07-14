@@ -8,6 +8,14 @@ Küresel çapta gelişen e-ticaret sektörünün büyük katkıları sayesinde k
 olması, UI, UX gibi kavramların kargo takip otomasyonları üzerinde önemi büyük ölçüde
 artmış durumda.
 
+<br/>
+<div align="center">
+  
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/60429097/178857264-29351908-9675-49ed-ba57-bbfce4fac31e.gif)
+
+ </div>
+<br/>
+
 Aktif olarak kullanılan Kargo Takip sistemleri ve otomasyonlarını incelediğimizde eski ve
 kullanıcı dostu olmadığını fark ettik. Bizde bu sorunları temel alarak C# tabanlı bir masaüstü
 uygulaması “Kargo Otomasyon Takip Sistemini” yapmaya karar verdik.
@@ -20,6 +28,13 @@ geçmesine yardımcı oluyor.
 Projemizin temel amacı kullanıcın kargosunun nerede olduğunu kolay bir şekilde kontrol
 etmesine yardımcı olmak. Kısaca kargo takip numarası üzerinden kargonun durumunu ve
 nerede olduğunu takip etmek.
+<br/>
+<div align="center">
+  
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/60429097/178856227-3d24cfa1-ecc5-4800-9704-d648209093e9.gif)
+  
+</div>
+<br/>
 
 ##  Proje Çalışmasına Olan Gereksinim Nedenleri
 Projemize başlamadan önce kargo şirketlerinin yazılımları üzerine bir pazar araştırması
@@ -31,18 +46,31 @@ sebebiyle genel bir araştırma yapmaya karar verdik. En büyük sıkıntılarda
 sayfanın doluluk oranıydı, sayfaların yoğunluğu çok fazla ve göz yoruyordu. Kendi
 uygulamamızın bu eksiklerden arındırılmış ve kullanıcı dostu, sade ve basit olmasına karar
 verdik.
+<br/>
+
+<div align="center">
+  
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/60429097/178857076-d9d90929-0891-4ea4-bad7-527d5f50fe94.gif)
+  
+</div>
+
+<br/>
+
 ### Masaüstü programlar üzerine yaptığımız araştırma ise şu şekilde:
 Bu araştırma genel olarak masaüstü programlar ve masaüstü kargo takip yazılımları üzerine
 oldu. Yaptığımız araştırma sonuçlarında ise tam anlamıyla uyarlanabilir ve UI ve UX
 konularını ön plana alan proje bulamadık. Bu sayede iki adet eksiklik üzerine ilerlemeye karar
 verdik. Modern arayüze sahip bir masaüstü program ve modern arayüze sahip, kapsamlı ve
 uyarlanabilir kargo takip sistemi.
+<br/>
 
+<div align="center" height="500px" width="500px">
+  
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/60429097/178855329-0b748af5-10b1-4e86-83a1-55587e560160.gif)
+  
+</div>
 
-![adadsadas](https://user-images.githubusercontent.com/60429097/178853613-461e06f5-5d9c-4908-bd38-18e6d98e986e.png)
-
-
-<br><br>
+<br/>
 Araştırmalarımız sonucu Türkçe kaynak eksikliğini düşünerek projemizi açık kaynak olarak
 yayınlamaya karar verdik. Bu sayede masaüstü form uygulamalarının gelişimine küçük bir
 artımız olacağını düşünüyoruz.
